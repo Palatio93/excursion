@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1, h2, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 25px auto;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+.main-image {
+    width: 85%;
+    margin: auto;
+}
+
+.main-image img {
+    width: 100%;
+    margin: 0 auto 25px;
+}
+
+.links {
+    margin: 35px auto;
+}
+
+.links a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    margin: 10px;
+    text-align: right;
+}
